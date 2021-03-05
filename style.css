@@ -6,3 +6,8 @@
 .carousel-inner{
  height: 80%;
 }
+.footerLetra{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 300%;
+}
